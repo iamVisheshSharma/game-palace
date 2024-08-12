@@ -1,4 +1,4 @@
-![alt text](https://github.com/iamVisheshSharma/game-palace/bloaster/appscreenshots/Splash.png)
+![alt text](https://github.com/iamVisheshSharma/game-palace/blob/master/appscreenshots/Splash.png)
 
 ![alt text](https://github.com/iamVisheshSharma/game-palace/blob/master/appscreenshots/Login.png)
 
